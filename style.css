@@ -107,7 +107,7 @@ nav {
 }
 
 .hero {
-    background-image: url(/image/bg.jpg);
+    background-image: url(image/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 910px;
@@ -253,7 +253,7 @@ nav {
     margin-bottom: 30px;
 }
 .contact {
-    background: url(/image/images/contacts\ \(1\).jpg);
+    background: url(image/images/contacts\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
